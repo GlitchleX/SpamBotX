@@ -1,0 +1,2 @@
+# SpamBotX
+Simple Python Spambot
